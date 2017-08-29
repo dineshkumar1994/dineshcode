@@ -1,0 +1,6 @@
+C:\Users\dines\Documents\Visual Studio 2013\Projects\ConsoleApplication7\Allergy.cs\bin\Debug\Allergy.cs.exe.config
+C:\Users\dines\Documents\Visual Studio 2013\Projects\ConsoleApplication7\Allergy.cs\bin\Debug\Allergy.cs.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\ConsoleApplication7\Allergy.cs\bin\Debug\Allergy.cs.pdb
+C:\Users\dines\Documents\Visual Studio 2013\Projects\ConsoleApplication7\Allergy.cs\obj\Debug\Allergy.cs.csprojResolveAssemblyReference.cache
+C:\Users\dines\Documents\Visual Studio 2013\Projects\ConsoleApplication7\Allergy.cs\obj\Debug\Allergy.cs.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\ConsoleApplication7\Allergy.cs\obj\Debug\Allergy.cs.pdb

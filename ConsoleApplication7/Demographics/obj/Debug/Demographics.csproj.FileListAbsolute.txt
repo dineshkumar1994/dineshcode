@@ -1,0 +1,6 @@
+c:\users\dines\documents\visual studio 2013\Projects\ConsoleApplication7\Demographics\obj\Debug\Demographics.csprojResolveAssemblyReference.cache
+c:\users\dines\documents\visual studio 2013\Projects\ConsoleApplication7\Demographics\bin\Debug\Demographics.exe.config
+c:\users\dines\documents\visual studio 2013\Projects\ConsoleApplication7\Demographics\bin\Debug\Demographics.exe
+c:\users\dines\documents\visual studio 2013\Projects\ConsoleApplication7\Demographics\bin\Debug\Demographics.pdb
+c:\users\dines\documents\visual studio 2013\Projects\ConsoleApplication7\Demographics\obj\Debug\Demographics.exe
+c:\users\dines\documents\visual studio 2013\Projects\ConsoleApplication7\Demographics\obj\Debug\Demographics.pdb

@@ -1,0 +1,6 @@
+C:\Users\dines\Documents\Visual Studio 2013\Projects\ConsoleApplication7\Medication\bin\Debug\Medication.exe.config
+C:\Users\dines\Documents\Visual Studio 2013\Projects\ConsoleApplication7\Medication\bin\Debug\Medication.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\ConsoleApplication7\Medication\bin\Debug\Medication.pdb
+C:\Users\dines\Documents\Visual Studio 2013\Projects\ConsoleApplication7\Medication\obj\Debug\Medication.csprojResolveAssemblyReference.cache
+C:\Users\dines\Documents\Visual Studio 2013\Projects\ConsoleApplication7\Medication\obj\Debug\Medication.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\ConsoleApplication7\Medication\obj\Debug\Medication.pdb
